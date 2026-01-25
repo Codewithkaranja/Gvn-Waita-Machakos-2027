@@ -96,16 +96,16 @@
             top: 0;
             left: 0;
             width: 100%;
-            padding: 20px 0;
+        
             z-index: 1000;
             background-color: transparent;
             transition: all 0.4s ease;
         }
         
         .navbar.scrolled {
-            background-color: rgba(17, 24, 39, 0.95);
+            background-color: transparent;
             padding: 15px 0;
-            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            
         }
         
         .navbar .container {
@@ -114,28 +114,52 @@
             align-items: center;
         }
         
-        .logo {
-            display: flex;
-            align-items: center;
-            font-weight: 800;
-            font-size: 1.8rem;
-            color: white;
-            z-index: 1001;
-        }
-        
-        .logo-img {
-            width: 50px;
-            height: 50px;
-            background: linear-gradient(135deg, var(--emerald), var(--gold));
-            border-radius: 50%;
-            margin-right: 10px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: 700;
-            font-size: 1.5rem;
-        }
+        .logo:hover {
+    transform: translateY(-2px);
+}
+
+
+
+.logo-img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 25px rgba(251, 191, 36, 0.4);
+}
+ .logo {
+        font-size: 1.8rem;
+        font-weight: 500;
+        /*color; #14c794;*/;
+        color:white;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+      }
+
+      .logo span {
+        color: #00e6a4;
+      }
+
+      .logo i {
+        margin-right: 8px;
+        color: var(--emerald);
+      }
+
+      .logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.02);
+}
+
+.logo img {
+  height: 200px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
         
         .nav-links {
             display: flex;
@@ -236,9 +260,9 @@
             rgba(0, 0, 0, 0.15),
             rgba(0, 0, 0, 0.6)
         ),
-        url("image\ -\ 2026-01-20T132438.160.webp");
+        url("image\ -\ 2026-01-25T151321.227.webp");
     background-size: cover;
-    background-position: center 25%;
+    background-position: center 45%;
  /* 🔑 THIS is the key */
     background-repeat: no-repeat;
     z-index: -1;
@@ -254,6 +278,7 @@
     font-size: clamp(2.2rem, 5vw, 3.5rem);
     font-weight: 700;
     margin-bottom: 1rem;
+    color: var(--emerald-light);
 }
 
 .hero-content p {
@@ -719,7 +744,21 @@
             .page-hero h1 {
                 font-size: 2.5rem;
             }
-            
+            .contact-hero .hero-bg {
+    position: absolute;
+    inset: 0;
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.63),
+            rgba(0, 0, 0, 0.6)
+        ),
+        url("image\ -\ 2026-01-25T151321.227.webp");
+    background-size: cover;
+    background-position: center 25%;
+ /* 🔑 THIS is the key */
+    background-repeat: no-repeat;
+    z-index: -1;
+}
             .page-hero p {
                 font-size: 1.1rem;
             }

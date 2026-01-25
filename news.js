@@ -102,21 +102,21 @@
                 date: "May 25, 2025",
                 title: "Women's Empowerment Forum Draws Hundreds in Matuu",
                 excerpt: "Nzioka Waita hosted a women's empowerment forum focusing on economic opportunities, safety, and political participation for Machakos women.",
-                image: "https://images.unsplash.com/photo-1545235617-9465d2a55698?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80"
+                image: "image - 2026-01-25T152712.217.webp"
             },
             {
                 category: "policy",
                 date: "May 22, 2025",
                 title: "Environmental Policy: Waita Pledges to Increase Machakos' Green Spaces by 30%",
                 excerpt: "Detailed plan unveiled to combat climate change in Machakos through increased tree planting, waste management reforms, and green building incentives.",
-                image: "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
+                image: "image - 2026-01-25T152034.791.webp"
             },
             {
                 category: "media",
                 date: "May 18, 2025",
                 title: "Interview with Business Daily: Waita Outlines Economic Recovery Plan",
                 excerpt: "In a detailed interview, Nzioka Waita discusses how he plans to revive Machakos' economy post-pandemic through strategic investments and business support.",
-                image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
+                image: "image - 2026-01-25T152312.671.webp"
             }
         ];
         

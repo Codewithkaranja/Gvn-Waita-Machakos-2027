@@ -118,9 +118,9 @@
 const heroBg = document.querySelector('.hero-bg');
 
 const heroImages = [
-    'image - 2026-01-20T132108.176.webp',
-    'image - 2026-01-20T131239.220.webp',
-    'image - 2026-01-20T132147.383.webp'
+    'image - 2026-01-25T151321.227.webp',
+    'image - 2026-01-25T152034.791.webp',
+    'image - 2026-01-25T152312.671.webp',
 ];
 
 let currentIndex = 0;

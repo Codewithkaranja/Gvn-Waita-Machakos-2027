@@ -129,7 +129,7 @@
                 date: "May 25, 2025",
                 title: "Meeting with Business Leaders",
                 excerpt: "Nzioka Waita discussing economic policies with Machakos' business community at the Semara Hotel.",
-                image: "image - 2026-01-20T131149.493..webp",
+                image: "image - 2026-01-25T154152.762.webp",
                 type: "photo"
             },
             {
@@ -137,15 +137,15 @@
                 date: "May 22, 2025",
                 title: "Environmental Policy Announcement",
                 excerpt: "Watch the full announcement of Nzioka Waita's plan to increase Machakos' green spaces by 30%.",
-                image: "https://image - 2026-01-20T131149.493..webp",
-                type: "https://youtu.be/EjAmRAZqgHs?si=h3zH9iUWdylEBmlS"
+                image: "image - 2026-01-25T152034.791.webp",
+                type: "https://www.youtube.com/channel/UCyTL4fNBFS6BdrJDQ6pdvPA"
             },
             {
                 category: "community",
                 date: "May 18, 2025",
                 title: "Visit to Tala Health Clinic",
                 excerpt: "Nzioka Waita visiting a health clinic in Tala to understand healthcare challenges in informal settlements.",
-                image: "https://image - 2026-01-20T131400.859..webp",
+                image: "image - 2026-01-25T153702.895.webp",
                 type: "photo"
             }
         ];
